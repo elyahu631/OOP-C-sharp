@@ -1,0 +1,16 @@
+D:\סמסטר ב\מונחה עצמים\lesson_2\Factory Pattern\Factory Pattern\bin\Debug\Factory Pattern.exe.config
+D:\סמסטר ב\מונחה עצמים\lesson_2\Factory Pattern\Factory Pattern\bin\Debug\Factory Pattern.exe
+D:\סמסטר ב\מונחה עצמים\lesson_2\Factory Pattern\Factory Pattern\bin\Debug\Factory Pattern.pdb
+D:\סמסטר ב\מונחה עצמים\lesson_2\Factory Pattern\Factory Pattern\obj\Debug\Factory Pattern.csproj.AssemblyReference.cache
+D:\סמסטר ב\מונחה עצמים\lesson_2\Factory Pattern\Factory Pattern\obj\Debug\Factory Pattern.csproj.SuggestedBindingRedirects.cache
+D:\סמסטר ב\מונחה עצמים\lesson_2\Factory Pattern\Factory Pattern\obj\Debug\Factory Pattern.csproj.CoreCompileInputs.cache
+D:\סמסטר ב\מונחה עצמים\lesson_2\Factory Pattern\Factory Pattern\obj\Debug\Factory Pattern.exe
+D:\סמסטר ב\מונחה עצמים\lesson_2\Factory Pattern\Factory Pattern\obj\Debug\Factory Pattern.pdb
+E:\סמסטר ב\מונחה עצמים\lesson_2\Factory Pattern\Factory Pattern\bin\Debug\Factory Pattern.exe.config
+E:\סמסטר ב\מונחה עצמים\lesson_2\Factory Pattern\Factory Pattern\bin\Debug\Factory Pattern.exe
+E:\סמסטר ב\מונחה עצמים\lesson_2\Factory Pattern\Factory Pattern\bin\Debug\Factory Pattern.pdb
+E:\סמסטר ב\מונחה עצמים\lesson_2\Factory Pattern\Factory Pattern\obj\Debug\Factory Pattern.csproj.AssemblyReference.cache
+E:\סמסטר ב\מונחה עצמים\lesson_2\Factory Pattern\Factory Pattern\obj\Debug\Factory Pattern.csproj.SuggestedBindingRedirects.cache
+E:\סמסטר ב\מונחה עצמים\lesson_2\Factory Pattern\Factory Pattern\obj\Debug\Factory Pattern.csproj.CoreCompileInputs.cache
+E:\סמסטר ב\מונחה עצמים\lesson_2\Factory Pattern\Factory Pattern\obj\Debug\Factory Pattern.exe
+E:\סמסטר ב\מונחה עצמים\lesson_2\Factory Pattern\Factory Pattern\obj\Debug\Factory Pattern.pdb
